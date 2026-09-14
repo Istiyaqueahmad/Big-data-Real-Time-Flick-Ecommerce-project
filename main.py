@@ -1,6 +1,6 @@
 import json
 import random
-import time
+import time 
 
 from faker import Faker
 from confluent_kafka import SerializingProducer
