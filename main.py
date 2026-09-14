@@ -1,7 +1,7 @@
 import json
 import random
 import time 
-
+  
 from faker import Faker
 from confluent_kafka import SerializingProducer
 from datetime import datetime
