@@ -2,7 +2,7 @@ package FlinkCommerce;
 import Deserializer.JSONValueDeserializationSchema;
 import Dto.SalesPerCategory;      
 import Dto.SalesPerDay; 
-import Dto.SalesPerMonth;
+import Dto.SalesPerMonth; 
 import Dto.Transaction;
 import org.apache.flink.api.common.eventtime.WatermarkStrategy;
 import org.apache.flink.api.connector.sink.Sink;
