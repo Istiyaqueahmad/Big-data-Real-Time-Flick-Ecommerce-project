@@ -12,3 +12,4 @@ public class SalesPerDay {
     private Double totalSales ;
 }
  
+ 
