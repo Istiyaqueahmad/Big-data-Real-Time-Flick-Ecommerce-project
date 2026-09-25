@@ -1,7 +1,7 @@
 package Dto; 
  
 import lombok.AllArgsConstructor; 
-import lombok.Data;  
+import lombok.Data;   
    
 @Data
 @AllArgsConstructor
