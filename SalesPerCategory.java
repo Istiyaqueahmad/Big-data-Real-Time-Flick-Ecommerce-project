@@ -12,3 +12,4 @@ public class SalesPerCategory {
     private String category;
     private Double totalSales;
 }
+ 
