@@ -59,7 +59,7 @@ public class DataStreamJob {
                 .withDriverName("org.postgresql.Driver")
                 .withUsername(username)
                 .withPassword(password)
-                .build();
+                .build(); 
 
 
         //create transactions table
