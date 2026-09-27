@@ -25,7 +25,7 @@ import java.sql.Date;
 import static utils.JsonUtil.convertTransactionToJson;
 
 public class DataStreamJob {
-    private static final String jdbcUrl = "jdbc:postgresql://localhost:5432/postgres";
+    private static final String jdbcUrl = "jdbc:postgresql://localhost:5432/postgres"; 
     private static final String username = "postgres";
     private static final String password = "postgres";
 
