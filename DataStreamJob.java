@@ -1,4 +1,4 @@
-package FlinkCommerce;
+package FlinkCommerce; 
 import Deserializer.JSONValueDeserializationSchema;
 import Dto.SalesPerCategory;       
 import Dto.SalesPerDay; 
