@@ -1,5 +1,5 @@
 package Deserializer;   
-
+ 
 import Dto.Transaction;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.flink.api.common.serialization.DeserializationSchema;
