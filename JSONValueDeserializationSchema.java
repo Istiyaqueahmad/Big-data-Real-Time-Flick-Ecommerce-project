@@ -1,4 +1,4 @@
-package Deserializer;  
+package Deserializer;   
 
 import Dto.Transaction;
 import com.fasterxml.jackson.databind.ObjectMapper;
